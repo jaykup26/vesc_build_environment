@@ -6,11 +6,11 @@ This is a .ova export from VirtualBox.
 
 ## Installing
 
-Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-Download the .ova file for the VESC Build Environment
-Open VirtualBox
-Click File -> Import Appliance and select the downloaded .ova
-Click Start
+* Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* Download the .ova file for the VESC Build Environment
+* Open VirtualBox
+* Click File -> Import Appliance and select the downloaded .ova
+* Click Start
 
 #### Login
 
