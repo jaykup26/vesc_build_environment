@@ -4,6 +4,10 @@ The **Unofficial VESC Build Environment** aims to help new users compile both th
 
 This is a .ova export from VirtualBox.
 
+## Virtual Machine Image
+
+[VESC_Build_Enviroment_0_10.ova](https://www.dropbox.com/s/garevz75n19nzi6/VESC_Build_Enviroment_0_10.ova?dl=0) - 35GB Download!
+
 ## Installing
 
 * Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
