@@ -29,6 +29,9 @@ sudo apt install libdbus-1-dev
 # This is needed to compile versions 5.02 and older.
 sudo apt install gcc-arm-none-eabi
 
+# Adds GitHub tools
+sudo apt install gitsome
+
 # fixes for "no qml utility installed"
 #sudo apt-get install qmlscene qtdeclarative5-dev 
 #sudo apt-get install '^libxcb.*-dev' libx11-xcb-dev libglu1-mesa-dev libxrender-dev libxi-dev libxkbcommon-dev libxkbcommon-x11-dev
